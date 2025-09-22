@@ -9,13 +9,13 @@ O trabalho foi implementado integralmente em python, utilizando bibliotecas HTTP
 ---
 
 ### Estrutura do projeto
-
+```
 .
 └── microservidor/
     ├── uploads/
     ├── servidor.py
     └── Readme.md
-
+```
 --- 
 
 ### Como executar
