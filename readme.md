@@ -3,11 +3,13 @@ Objetivo do servidor é ter as seguintes funcionalidades:
 * Permitir que um arquivo seja enviado pelo cliente e amazenado em uma pasta no servidor.
 * Permitir que o cliente faça download de arquivos previamente armazenados.
 * Retornar uma lista dos arquivos disponiveis para download.
-O trabalho foi implementado integralmente em python, utilizando bibliotecas HTTPServer, urlparse aprendendo assim as funções que compõem. Uso de HTTP Status code e tratamentos de erros. Assim, explorndo conceitos de Sistema distribuídos, protocolos de comunicação e arquitetura cliente-servidor.
+
+O trabalho foi implementado integralmente em python, utilizando bibliotecas HTTPServer, urlparse aprendendo assim as funções que compõem. Uso de HTTP Status code e tratamentos de erros. Assim, explorndo           conceitos de Sistema distribuídos, protocolos de comunicação e arquitetura cliente-servidor.
 
 ---
 
 ### Estrutura do projeto
+
 .
 └── microservidor/
     ├── uploads/
